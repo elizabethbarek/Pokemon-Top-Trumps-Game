@@ -78,6 +78,5 @@ def run():
             print("Thanks for playing!")
             break
 
-
 run()
 # runs the game
